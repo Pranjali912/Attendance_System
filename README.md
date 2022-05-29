@@ -19,6 +19,8 @@ Train those images.
 Use face dectector to detect a face and it will automatically mark the attendance.
 <br>
 A .csv will be generated that will show the attendance.
+<br>
+Click on the exit button to exit.
 
 
 
